@@ -5,9 +5,12 @@
 
 [Chaos within Sudoku](https://arxiv.org/abs/1208.0370)
 
+[From Gameplay to Symbolic Reasoning: Learning SAT Solver Heuristics in the Style of Alpha(Go) Zero](https://arxiv.org/abs/1802.05340)
+
 # Relevant repositories
 [Deep Q Learning for Sudoku](https://github.com/ADI-tya-P/Solving-Sudoku-using-Deep-Q-learning)
 
 [SatNet](https://github.com/locuslab/SATNet)
 
 [Neural Rewriter](https://github.com/Jan21/neural-rewriter)
+
